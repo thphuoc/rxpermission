@@ -1,8 +1,11 @@
 # RxPermissions
-
-[![](https://jitpack.io/v/tbruyelle/RxPermissions.svg)](https://jitpack.io/#tbruyelle/RxPermissions) [![BuildVersion](https://buildstats.info/nuget/RxPermissions)](https://www.nuget.org/packages/RxPermissions/) [![Build Status](https://api.travis-ci.org/tbruyelle/RxPermissions.svg?branch=master)](https://travis-ci.org/tbruyelle/RxPermissions)
-
 This library allows the usage of RxJava with the new Android M permission model.
+
+## Supports Build
+* Kotlin
+* Gradle 3.3.2
+* Java 8
+* AndroidX
 
 ## Setup
 
@@ -17,7 +20,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.tbruyelle:rxpermissions:0.10.2'
+    implementation 'com.github.thphuoc:rxpermission:Tag'
 }
 ```
 
