@@ -1,12 +1,12 @@
-package com.tbruyelle.rxpermissions.sample;
+package com.thp.rxpermissions.sample;
 
 import android.Manifest;
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.os.Build;
 
-import com.tbruyelle.rxpermissions2.Permission;
-import com.tbruyelle.rxpermissions2.RxPermissions;
+import com.thp.rxpermissions2.Permission;
+import com.thp.rxpermissions2.RxPermissions;
 
 import org.junit.Before;
 import org.junit.Test;

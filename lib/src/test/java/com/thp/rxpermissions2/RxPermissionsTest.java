@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package com.tbruyelle.rxpermissions2;
+package com.thp.rxpermissions2;
 
 import android.Manifest;
 import android.annotation.TargetApi;

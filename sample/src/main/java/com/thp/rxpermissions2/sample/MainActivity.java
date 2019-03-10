@@ -1,4 +1,4 @@
-package com.tbruyelle.rxpermissions2.sample;
+package com.thp.rxpermissions2.sample;
 
 import android.Manifest.permission;
 import android.hardware.Camera;
